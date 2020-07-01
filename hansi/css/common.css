@@ -1,0 +1,16 @@
+*{
+  margin: 0 auto;
+  padding:0;
+}
+
+a{
+  text-decoration: none; 
+}
+
+ul li {
+  list-style: none;
+}
+
+table {
+  margin-top:10px;
+}
